@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3710427F-6A83-44BA-8346-3ED8B2712211</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tips</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C86780E7AFC44EBBFE002637D69F71D94DD8843C</key>
+		<string>https://github.com/losifer/tip-calculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tips.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C86780E7AFC44EBBFE002637D69F71D94DD8843C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/losifer/tip-calculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C86780E7AFC44EBBFE002637D69F71D94DD8843C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C86780E7AFC44EBBFE002637D69F71D94DD8843C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tip-calculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
