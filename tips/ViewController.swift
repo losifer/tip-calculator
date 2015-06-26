@@ -14,12 +14,23 @@ class ViewController: UIViewController {
     @IBOutlet weak var billField: UITextField!
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
+    @IBOutlet weak var firstView: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         tipLabel.text = "$0.00"
         totalLabel.text = "$0.00"
+        
+        // Optionally initialize the property to a desired starting value
+        self.firstView.alpha = 0
+        // self.secondView.alpha = 1
+        UIView.animateWithDuration(0.4, animations: {
+            // This causes first view to fade in and second view to fade out
+            self.firstView.alpha = 1
+            // self.secondView.alpha = 0
+        })
+        
     }
 
     override func didReceiveMemoryWarning() {
