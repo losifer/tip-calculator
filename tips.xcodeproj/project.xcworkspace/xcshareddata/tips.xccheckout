@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< Updated upstream
 	<string>3710427F-6A83-44BA-8346-3ED8B2712211</string>
+=======
+	<string>E369D402-1F25-4EA6-83A2-9842DF2269D9</string>
+>>>>>>> Stashed changes
 	<key>IDESourceControlProjectName</key>
 	<string>tips</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +38,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>C86780E7AFC44EBBFE002637D69F71D94DD8843C</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< Updated upstream
 			<string>tip-calculator</string>
+=======
+			<string>tips</string>
+>>>>>>> Stashed changes
 		</dict>
 	</array>
 </dict>
